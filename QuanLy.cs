@@ -76,6 +76,7 @@ namespace QLMyPham
                 cnn = new SqlConnection(str);
                 dgvEmployee.DataSource = GetEmployee();
                 dgvCustomer.DataSource = GetCustomer();
+                dgvsp.DataSource = GetSanPham();
             }
             catch (SqlException ex)
             {
@@ -172,6 +173,81 @@ namespace QLMyPham
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string masanpham;
+            masanpham = txtmasp.Text.Trim();
+            try
+            {
+                int i = new SanPhamBUS().xoaSP(masanpham);
+            }
+            catch (Exception ex)
+            {
+                
+                throw ex;
+            }
+            dgvsp.DataSource = GetSanPham();
+        }
+        private List<SanPhamDTO> GetSanPham()
+        {
+            string sql = "SELECT* FROM SanPham";
+            return new SanPhamBUS().Getsanpham(sql);
+        }
+        private void btthemsp_Click(object sender, EventArgs e)
+        {
+            string masp,tensp, mota, tinhtrang, manguoncungcap, maloaisp;
+            double dongia;
+            masp = txtmasp.Text.Trim();
+            tensp = txttensp.Text.Trim();
+            mota = txtmota.Text.Trim();
+            dongia = Double.Parse(txtdongia.Text.Trim());
+            tinhtrang = txttinhtrang.Text.Trim();
+            manguoncungcap = txtmncc.Text.Trim();
+            maloaisp = txtmlsp.Text.Trim();
+
+            SanPhamDTO sp = new SanPhamDTO(masp,tensp, mota, dongia,tinhtrang, manguoncungcap,maloaisp);
+            try
+            {
+                int i = new SanPhamBUS().Add(sp);
+                dgvsp.DataSource = GetSanPham();
+            }
+            catch (SqlException ex)
+            {
+
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void btsuasp_Click(object sender, EventArgs e)
+        {
+            string masp, tensp, mota, tinhtrang, manguoncungcap, maloaisp;
+            double dongia;
+            masp = txtmasp.Text.Trim();
+            tensp = txttensp.Text.Trim();
+            mota = txtmota.Text.Trim();
+            dongia = double.Parse(txtdongia.Text.Trim());
+            tinhtrang = txttinhtrang.Text.Trim();
+            manguoncungcap = txtmncc.Text.Trim();
+            maloaisp = txtmlsp.Text.Trim();
+            SanPhamDTO sp = new SanPhamDTO(masp, tensp, mota, dongia, tinhtrang, manguoncungcap, maloaisp);
+            try
+            {
+                int i = new SanPhamBUS().SuaSP(sp);
+                if (i == -2)
+                {
+                    throw new Exception();
+                }
+
+            }
+            catch (Exception ex)
+            {
+                
+                throw ex;
+            }
+            dgvsp.DataSource = GetSanPham(); 
+        }
+        
 
     }
 }

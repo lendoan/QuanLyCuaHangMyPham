@@ -8,3 +8,12 @@ D:\bin\QLMyPham.exe
 D:\bin\QLMyPham.pdb
 D:\QLMyPham\obj\Debug\QLMyPham.exe
 D:\QLMyPham\obj\Debug\QLMyPham.pdb
+C:\Users\StingDau\Desktop\Tamm\bin\QLMyPham.exe.config
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\obj\Debug\QLMyPham.exe
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\obj\Debug\QLMyPham.pdb
+C:\Users\StingDau\Desktop\Tamm\bin\QLMyPham.exe
+C:\Users\StingDau\Desktop\Tamm\bin\QLMyPham.pdb
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\obj\Debug\QLMyPham.csprojResolveAssemblyReference.cache
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\obj\Debug\QLMyPham.Properties.Resources.resources
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\obj\Debug\QLMyPham.QuanLy.resources
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\obj\Debug\QLMyPham.csproj.GenerateResource.Cache

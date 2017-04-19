@@ -4,3 +4,9 @@ D:\QLMyPham\bin\DAO.pdb
 D:\QLMyPham\DAO\obj\Debug\DAO.dll
 D:\QLMyPham\DAO\obj\Debug\DAO.pdb
 D:\QLMyPham\bin\DAO.dll.config
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\bin\DAO.dll.config
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\bin\DAO.dll
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\bin\DAO.pdb
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\DAO\obj\Debug\DAO.dll
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\DAO\obj\Debug\DAO.pdb

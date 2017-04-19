@@ -5,3 +5,8 @@ D:\QLMyPham\DTO\obj\Debug\DTO.pdb
 D:\QLMyPham\bin\DTO.dll
 D:\QLMyPham\bin\DTO.pdb
 D:\QLMyPham\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\bin\DTO.dll
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\bin\DTO.pdb
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\DTO\obj\Debug\DTO.dll
+C:\Users\StingDau\Desktop\Tamm\QuanLyCuaHangMyPham\DTO\obj\Debug\DTO.pdb
