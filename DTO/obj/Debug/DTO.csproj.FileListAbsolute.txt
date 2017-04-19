@@ -1,7 +1,6 @@
 D:\QLMyPham\DTO\bin\Debug\DTO.dll
 D:\QLMyPham\DTO\bin\Debug\DTO.pdb
-D:\QLMyPham\DTO\obj\Debug\DTO.dll
-D:\QLMyPham\DTO\obj\Debug\DTO.pdb
 D:\QLMyPham\bin\DTO.dll
 D:\QLMyPham\bin\DTO.pdb
-D:\QLMyPham\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\QLMyPham\DTO\obj\Debug\DTO.dll
+D:\QLMyPham\DTO\obj\Debug\DTO.pdb

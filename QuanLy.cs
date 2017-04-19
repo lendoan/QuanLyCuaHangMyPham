@@ -13,26 +13,33 @@ using BUS;
 using DTO;
 namespace QLMyPham
 {
-    public partial class QuanLy : Form
+    public partial class frmQuanLy : Form
     {
+     
         string str = "";
         SqlConnection cnn;
-        public QuanLy()
+        public frmQuanLy()
         {
             InitializeComponent();
         }
+        
 
         private void tabPage1_Click(object sender, EventArgs e)
         {
-            try
-            {
-                dgvEmployee.DataSource = GetEmployee();
-            }
-            catch (SqlException ex)
-            {
-                
-                throw ex;
-            }
+           
+            
+                try
+                {
+                    dgvEmployee.DataSource = GetEmployee();
+                }
+                catch (SqlException ex)
+                {
+
+                    throw ex;
+                }
+            
+            
+            
         }
         private List<EmployeeDTO> GetEmployee()
         {
@@ -169,6 +176,11 @@ namespace QLMyPham
         
 
         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tpBanHang_Click(object sender, EventArgs e)
         {
 
         }

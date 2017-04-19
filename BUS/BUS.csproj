@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CustomerBUS.cs" />
+    <Compile Include="DonHangBUS.cs" />
     <Compile Include="EmployeeBUS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

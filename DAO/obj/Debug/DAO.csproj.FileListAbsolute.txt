@@ -1,6 +1,6 @@
-D:\QLMyPham\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\QLMyPham\bin\DAO.dll.config
 D:\QLMyPham\bin\DAO.dll
 D:\QLMyPham\bin\DAO.pdb
+D:\QLMyPham\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 D:\QLMyPham\DAO\obj\Debug\DAO.dll
 D:\QLMyPham\DAO\obj\Debug\DAO.pdb
-D:\QLMyPham\bin\DAO.dll.config

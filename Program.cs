@@ -16,7 +16,7 @@ namespace QLMyPham
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new QuanLy());
+            Application.Run(new frmDangnhap());
         }
     }
 }
