@@ -1,0 +1,7 @@
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\DAO\bin\Debug\DAO.dll
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\DAO\bin\Debug\DAO.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\DAO\bin\Debug\DTO.dll
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\DAO\bin\Debug\DTO.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\DAO\obj\Debug\DAO.dll
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,9 @@
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\BUS\bin\Debug\BUS.dll
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\BUS\bin\Debug\BUS.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\BUS\bin\Debug\DAO.dll
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\BUS\bin\Debug\DTO.dll
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\BUS\bin\Debug\DAO.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\BUS\bin\Debug\DTO.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\BUS\obj\Debug\BUS.dll
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\BUS\obj\Debug\BUS.pdb

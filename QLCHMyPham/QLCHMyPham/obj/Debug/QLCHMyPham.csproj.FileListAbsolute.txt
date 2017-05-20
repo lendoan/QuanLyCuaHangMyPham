@@ -1,1 +1,16 @@
 D:\QLCHMyPham\QLCHMyPham\bin\Debug\QLCHMyPham.exe.config
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\bin\Debug\QLCHMyPham.exe.config
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.csprojResolveAssemblyReference.cache
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.frmDangNhap.resources
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.frmMain.resources
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.Properties.Resources.resources
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.csproj.GenerateResource.Cache
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\bin\Debug\QLCHMyPham.exe
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\bin\Debug\QLCHMyPham.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\bin\Debug\BUS.dll
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\bin\Debug\DTO.dll
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\bin\Debug\BUS.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\bin\Debug\DTO.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.exe
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.frmNhanVien.resources
