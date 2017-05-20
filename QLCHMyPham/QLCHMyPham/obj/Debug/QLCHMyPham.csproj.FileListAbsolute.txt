@@ -14,3 +14,7 @@ C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham
 C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.exe
 C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.pdb
 C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.frmNhanVien.resources
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\bin\QLCHMyPham.exe.config
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\bin\QLCHMyPham.exe
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\bin\QLCHMyPham.pdb
+C:\Users\hambaekgu\Desktop\trangle1212\QuanLyCuaHangMyPham\QLCHMyPham\QLCHMyPham\obj\Debug\QLCHMyPham.frmBanHang.resources
